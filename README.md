@@ -34,7 +34,7 @@ It helps teams generate branded, short-form copy like CTAs, product descriptions
 
 | Generator UI | Pricing Section |
 |--------------|-----------------|
-| ![Generator](./screenshots/generator.png) | ![Pricing](./screenshots/pricing.png) |
+| ![Generator](public/ai-generator.png) | ![Pricing](public/pricing.png) |
 
 ---
 
